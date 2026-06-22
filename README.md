@@ -13,3 +13,12 @@ KEAHLIAN UTAMA :
 •  User Training & System Implementation 
 •  Ticketing System (JIRA) 
 •  Remote Support 
+
+
+PENGALAMAN KERJA 
+Commercial Support & Operations – eDOT/Nabati Group 
+                Nov 2024 – Juni 2026 
+•  Memberikan pelatihan penggunaan aplikasi eDOT kepada tim sales. 
+•  Menangani kendala teknis dan troubleshooting aplikasi. 
+•  Membuat dan mengelola tiket insiden melalui JIRA. 
+•  Berkoordinasi dengan tim terkait untuk memastikan penyelesaian masalah tepat waktu.
